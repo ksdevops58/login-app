@@ -1,5 +1,5 @@
 #!/bin/sh
-echo "setting up web app"
+echo "setting up web login application"
 sudo apt -y update
 sudo apt -y install nginx
 sudo rm -rf /var/www/html
